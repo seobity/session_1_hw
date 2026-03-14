@@ -9,10 +9,10 @@ Q1. pull requests는 조직 레포에서 개인 레포로 보내야 한다. (y/n
 A. n
 
 Q2. commit할 파일들이 예비로 저장되어 있는 공간의 이름은?
-A. staging
+A. Staging Area
 
 Q3. 조직 레포(upstream)에서 업데이트된 코드를를 로컬로 가져오고 싶다. 어떤 명령어를 사용해야 할까?
-A. git pull
+A. git pull upstream main
 
 Q4. 오픈소스 협업으로 프로젝트를 진행한다고 할때, fork는 팀장만 해야한다. (y/n)
 A. n
@@ -25,7 +25,7 @@ Q6. 현재 디렉터리를 Git 저장소로 초기화하는 명령어는?
 A. git init
 
 Q7. Git과 GitHub의 차이점은?
-A. Git은 버전 관리 도구, Githu는 코드 저장소
+A. Git은 분산 버전 관리 시스템, Github는 Git 기반 온라인 코드 저장소
 
 Q8. 다음 중 fork의 설명으로 올바른 것은?
 
