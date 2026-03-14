@@ -21,7 +21,7 @@ Q5. 변경 사항이 있는 모든 파일을 "과제 끝"이라는 메시지와 
 (3개의 명령어를 전부 답해주세요.)
 A. git add .
 ,git commit -m "과제 끝"
-, git push origin main
+,git push origin main
 
 Q6. 현재 디렉터리를 Git 저장소로 초기화하는 명령어는?
 A. git init
